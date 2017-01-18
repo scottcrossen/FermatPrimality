@@ -1,0 +1,8 @@
+P:\Fermat Primality Tester\Fermat Primality Tester\bin\Debug\Fermat Primality Tester.exe.config
+P:\Fermat Primality Tester\Fermat Primality Tester\bin\Debug\Fermat Primality Tester.exe
+P:\Fermat Primality Tester\Fermat Primality Tester\bin\Debug\Fermat Primality Tester.pdb
+P:\Fermat Primality Tester\Fermat Primality Tester\obj\Debug\Fermat_Primality_Tester.Form1.resources
+P:\Fermat Primality Tester\Fermat Primality Tester\obj\Debug\Fermat_Primality_Tester.Properties.Resources.resources
+P:\Fermat Primality Tester\Fermat Primality Tester\obj\Debug\Fermat Primality Tester.csproj.GenerateResource.Cache
+P:\Fermat Primality Tester\Fermat Primality Tester\obj\Debug\Fermat Primality Tester.exe
+P:\Fermat Primality Tester\Fermat Primality Tester\obj\Debug\Fermat Primality Tester.pdb
